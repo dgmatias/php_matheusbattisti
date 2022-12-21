@@ -1,0 +1,7 @@
+<?php 
+
+    function nomear($x, $y) {
+        echo "Meu nome é $x $y <br>";
+    }
+
+    nomear("Diego", "Matias");
